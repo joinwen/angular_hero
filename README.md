@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HeroApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# angular_hero
+angular官网的英雄编辑器
+>>>>>>> 9b6a94c8d78aa6db51953d5fbc15172b7ade9e0e
